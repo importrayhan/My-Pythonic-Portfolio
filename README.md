@@ -5,5 +5,5 @@ And it checks out. I created this resume in 3 hours and hosted it on an free EC2
 
 It has an extensive documentation and overall its very easy to use. 
 
-Check out the app here: http://54.147.143.114:8501/
+Check out the app here: 
  
